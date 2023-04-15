@@ -1,4 +1,4 @@
-solid principles
+Solid Principles
 
 1.Single Responsibility Principle
 
