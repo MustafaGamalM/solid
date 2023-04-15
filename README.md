@@ -15,4 +15,4 @@ Solid Principles
 5.Dependency Inversion Principle
 
 
-![Solid-Principles-in-C- NET-Core-5](https://user-images.githubusercontent.com/93442332/232232912-01a8baf5-867e-4c63-86a9-96473be79e2f.png)
+![SO](https://user-images.githubusercontent.com/93442332/232233052-c9793609-79b6-48b6-a8fc-a6451f4e0888.png)
